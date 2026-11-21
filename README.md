@@ -39,22 +39,6 @@ Extra modules for specific fields – pick only what you need, add or remove the
 | **Electrical engineering** | IEC/DIN and ANSI circuit symbols, wires with junctions, searchable component catalog |
 | **Music** | Clefs, notes, rests, accidentals, time signatures – they snap to the staff lines |
 
-## Building from source
-
-Requires the .NET SDK (target `net11.0-windows10.0.22621.0`).
-
-```powershell
-dotnet build SigmaNotes\SigmaNotes.csproj
-```
-
-| Folder | Contents |
-|---|---|
-| `SigmaNotes/` | the application (WPF) |
-| `addons/` | the Math, Electrical and Music add-ons |
-| `installer/` | installer and release scripts |
-| `website/` | static project website |
-| `docs/` | architecture decisions and notes |
-
 ## Feedback & support
 
 - Report bugs and suggest ideas: [GitHub Issues](https://github.com/MisterMax50/SigmaNotes-Releases/issues)
@@ -102,22 +86,6 @@ Zusatzmodule für Fachgebiete – einzeln wählbar, jederzeit nachinstallierbar:
 | **Mathe** | Formeln (LaTeX), 2D-/3D-Koordinatensysteme mit Funktionen, Flächen und Raumkurven |
 | **Elektrotechnik** | Schaltzeichen nach IEC/DIN und ANSI, Leitungen mit Knotenpunkten, Bauteil-Katalog |
 | **Musik** | Notenschlüssel, Noten, Pausen, Vorzeichen, Taktarten – rasten auf den Notenlinien ein |
-
-## Aus dem Quelltext bauen
-
-Voraussetzung: .NET SDK (Ziel `net11.0-windows10.0.22621.0`).
-
-```powershell
-dotnet build SigmaNotes\SigmaNotes.csproj
-```
-
-| Ordner | Inhalt |
-|---|---|
-| `SigmaNotes/` | das Programm (WPF) |
-| `addons/` | die Addons Mathe, Elektrotechnik, Musik |
-| `installer/` | Installer und Veröffentlichungs-Skripte |
-| `website/` | statische Projektseite |
-| `docs/` | Architekturentscheidungen und Hinweise |
 
 ## Feedback & Unterstützung
 
