@@ -24,6 +24,7 @@ window.PN_I18N["ja"] = {
 "Herunterladen":"ダウンロード",
 "Installer herunterladen":"インストーラーをダウンロード",
 "Alle Funktionen mit Bildern ansehen →":"画像付きで全機能を見る →",
+"Alle Addons ansehen →":"すべてのアドオンを見る →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – PDF に手書きで注釈を付ける",
 "PDFs mit der Hand beschriften":"手書きで PDF に書き込む",
 "Addons – nimm nur, was du brauchst":"アドオン – 必要なものだけ追加",

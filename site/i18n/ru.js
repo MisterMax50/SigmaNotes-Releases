@@ -24,6 +24,7 @@ window.PN_I18N["ru"] = {
 "Herunterladen":"Скачать",
 "Installer herunterladen":"Скачать установщик",
 "Alle Funktionen mit Bildern ansehen →":"Все функции с картинками →",
+"Alle Addons ansehen →":"Все дополнения →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – рукописные заметки в PDF",
 "PDFs mit der Hand beschriften":"Пишите в PDF от руки",
 "Addons – nimm nur, was du brauchst":"Аддоны – берите только то, что нужно",

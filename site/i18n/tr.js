@@ -24,6 +24,7 @@ window.PN_I18N["tr"] = {
 "Herunterladen":"İndir",
 "Installer herunterladen":"Kurucuyu indir",
 "Alle Funktionen mit Bildern ansehen →":"Tüm özellikleri resimlerle görün →",
+"Alle Addons ansehen →":"Tüm eklentileri görün →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – PDF'lere el yazısıyla not alın",
 "PDFs mit der Hand beschriften":"PDF'lere elle not alın",
 "Addons – nimm nur, was du brauchst":"Eklentiler – yalnızca ihtiyacın olanı al",

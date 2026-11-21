@@ -24,6 +24,7 @@ window.PN_I18N["ko"] = {
 "Herunterladen":"다운로드",
 "Installer herunterladen":"설치 프로그램 다운로드",
 "Alle Funktionen mit Bildern ansehen →":"그림으로 모든 기능 보기 →",
+"Alle Addons ansehen →":"모든 애드온 보기 →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – PDF에 손으로 주석 달기",
 "PDFs mit der Hand beschriften":"손으로 PDF에 메모하기",
 "Addons – nimm nur, was du brauchst":"애드온 – 필요한 것만 골라 쓰세요",

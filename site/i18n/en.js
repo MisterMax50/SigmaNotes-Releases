@@ -24,6 +24,7 @@ window.PN_I18N["en"] = {
 "Herunterladen":"Download",
 "Installer herunterladen":"Download installer",
 "Alle Funktionen mit Bildern ansehen →":"See all features with pictures →",
+"Alle Addons ansehen →":"See all add-ons →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – annotate PDFs by hand",
 "PDFs mit der Hand beschriften":"Write on PDFs by hand",
 "Addons – nimm nur, was du brauchst":"Addons – take only what you need",

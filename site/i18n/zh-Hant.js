@@ -24,6 +24,7 @@ window.PN_I18N["zh-Hant"] = {
 "Herunterladen":"下載",
 "Installer herunterladen":"下載安裝程式",
 "Alle Funktionen mit Bildern ansehen →":"查看附圖的所有功能 →",
+"Alle Addons ansehen →":"查看所有外掛 →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – 手寫標註 PDF",
 "PDFs mit der Hand beschriften":"用手寫方式為 PDF 加上標註",
 "Addons – nimm nur, was du brauchst":"附加元件 – 只裝你需要的",

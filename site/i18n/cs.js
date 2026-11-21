@@ -24,6 +24,7 @@ window.PN_I18N["cs"] = {
 "Herunterladen":"Stáhnout",
 "Installer herunterladen":"Stáhnout instalátor",
 "Alle Funktionen mit Bildern ansehen →":"Zobrazit všechny funkce s obrázky →",
+"Alle Addons ansehen →":"Zobrazit všechny addony →",
 "SigmaNotes – PDFs handschriftlich annotieren":"SigmaNotes – ruční anotace PDF",
 "PDFs mit der Hand beschriften":"Popisuj PDF vlastní rukou",
 "Addons – nimm nur, was du brauchst":"Addony – vezmi si jen to, co potřebuješ",
