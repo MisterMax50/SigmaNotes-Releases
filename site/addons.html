@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-i>Addons – SigmaNotes</title>
+  <meta name="description" data-i-content content="Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="stylesheet" href="style.css">
+  <script src="i18n.js"></script>
+  <script src="disclaimer.js" defer></script>
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="index.html"><img src="assets/logo.svg" alt="" width="32" height="32"> SigmaNotes</a>
+    <nav>
+      <a href="index.html" data-i>Start</a>
+      <a href="funktionen.html" data-i>Funktionen</a>
+      <a href="addons.html" aria-current="page" class="active" data-i>Addons</a>
+      <a href="index.html#installation" data-i>Installation</a>
+      <a href="kontakt.html" data-i>Kontakt</a>
+      <a class="kofi" href="https://ko-fi.com/H3A22B1FM8" target="_blank" rel="noopener noreferrer" title="Ko-fi" data-i>♥ Spenden</a>
+      <a class="btn small" href="https://github.com/MisterMax50/SigmaNotes-Releases/releases/download/installer/SigmaNotes-Setup.exe" download data-i>Herunterladen</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-head">
+      <h1 data-i>Addons</h1>
+      <p class="lead" data-i>Zusatzmodule für Fachgebiete. Du wählst sie einzeln beim Installieren aus und kannst sie jederzeit dazunehmen oder entfernen – das Programm bleibt schlank.</p>
+    </section>
+
+    <!-- ===================================================== Mathe -->
+    <section id="mathe" class="feature">
+      <div class="text">
+        <h2 data-i>Mathe</h2>
+        <p data-i>Formeln (LaTeX) einfügen sowie 2D- und 3D-Koordinatensysteme mit Funktionen, Flächen und Raumkurven.</p>
+        <ul>
+          <li data-i><strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.</li>
+          <li data-i><strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Mathe: Funktionsgraph im Koordinatensystem.">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g fill="none" stroke="#2e2e2e" stroke-width="1.5"><path d="M30 120 H290 M160 24 V176"/></g>
+          <path d="M44 168 Q160 -60 276 168" fill="none" stroke="var(--accent)" stroke-width="3"/>
+          <text class="t" x="196" y="44">f(x) = −x² + 4</text>
+        </svg>
+        <figcaption data-i>Mathe: Funktionsgraph im Koordinatensystem.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Elektrotechnik -->
+    <section id="elektrotechnik" class="feature alt flip">
+      <div class="text">
+        <h2 data-i>Elektrotechnik</h2>
+        <p data-i>Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.</p>
+        <ul>
+          <li data-i><strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.</li>
+          <li data-i><strong>Leitungen</strong> – Verbindungen mit Knotenpunkten zwischen den Bauteilen ziehen.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Elektrotechnik: Schaltung mit Bauteilen und Leitungen.">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g fill="none" stroke="#2e2e2e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <!-- Leitungen: oben, unten, links (Quelle) -->
+            <path d="M40 50 H70 M112 50 H130 M170 50 H280 M40 50 V90 M40 100 V150 H280"/>
+            <!-- Spannungsquelle -->
+            <path d="M28 90 H52 M34 100 H46"/>
+            <!-- Schalter -->
+            <path d="M70 50 L106 34"/>
+            <!-- Widerstand R1 (waagerecht) -->
+            <rect x="130" y="42" width="40" height="16"/>
+            <!-- Widerstand R2 (senkrecht) -->
+            <path d="M230 50 V80 M230 120 V150"/><rect x="222" y="80" width="16" height="40"/>
+            <!-- Kondensator C -->
+            <path d="M280 50 V92 M268 92 H292 M268 104 H292 M280 104 V150"/>
+          </g>
+          <g fill="#2e2e2e">
+            <circle cx="70" cy="50" r="3"/><circle cx="112" cy="50" r="3"/>
+            <circle cx="230" cy="50" r="4.5"/><circle cx="230" cy="150" r="4.5"/>
+          </g>
+          <g class="t" fill="#2e2e2e" font-size="12">
+            <text x="46" y="87">+</text><text x="14" y="112">U</text>
+            <text x="143" y="34">R1</text><text x="244" y="104">R2</text>            <text x="296" y="102">C</text><text x="86" y="30">S</text>
+          </g>
+        </svg>
+        <figcaption data-i>Elektrotechnik: Schaltung mit Bauteilen und Leitungen.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Musik -->
+    <section id="musik" class="feature">
+      <div class="text">
+        <h2 data-i>Musik</h2>
+        <p data-i>Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.</p>
+        <ul>
+          <li data-i><strong>Noten &amp; Pausen</strong> – Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten setzen.</li>
+          <li data-i><strong>Notenpapier</strong> – die Zeichen rasten auf den Notenlinien ein.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Musik: Noten auf dem Notensystem.">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g stroke="#2e2e2e" stroke-width="1"><path d="M30 80 H300 M30 92 H300 M30 104 H300 M30 116 H300 M30 128 H300"/></g>
+          <g fill="#2e2e2e"><ellipse cx="100" cy="110" rx="8" ry="6"/><ellipse cx="160" cy="98" rx="8" ry="6"/><ellipse cx="220" cy="86" rx="8" ry="6"/></g>
+          <g stroke="#2e2e2e" stroke-width="2"><path d="M107 110 V66 M167 98 V54 M227 86 V42"/></g>
+        </svg>
+        <figcaption data-i>Musik: Noten auf dem Notensystem.</figcaption>
+      </figure>
+    </section>
+
+    <section class="cta-band">
+      <h2 data-i>Überzeugt?</h2>
+      <p data-i>Der Installer lädt SigmaNotes und die gewählten Addons direkt für dich herunter.</p>
+      <p><a class="btn" href="https://github.com/MisterMax50/SigmaNotes-Releases/releases/download/installer/SigmaNotes-Setup.exe" download data-i>Installer herunterladen</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="donate">
+      <p data-i>Gefällt dir SigmaNotes? Mit einer kleinen Spende unterstützt du die Weiterentwicklung.</p>
+      <p><a class="btn" href="https://ko-fi.com/H3A22B1FM8" target="_blank" rel="noopener noreferrer" data-i>Auf Ko-fi unterstützen</a></p>
+    </div>
+    <p data-i>SigmaNotes · Die Bilder sind schematische Illustrationen.</p>
+  </footer>
+</body>
+</html>

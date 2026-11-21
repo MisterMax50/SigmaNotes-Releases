@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title data-i>Funktionen – SigmaNotes</title>
+  <meta name="description" data-i-content content="Alle Funktionen von SigmaNotes im Überblick: Stift, Formen, Lineal und Zirkel, Messen, Textwerkzeuge, Seitenverwaltung, Suche, OCR und Addons.">
+  <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="stylesheet" href="style.css">
+  <script src="i18n.js"></script>
+  <script src="disclaimer.js" defer></script>
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="index.html"><img src="assets/logo.svg" alt="" width="32" height="32"> SigmaNotes</a>
+    <nav>
+      <a href="index.html" data-i>Start</a>
+      <a href="funktionen.html" aria-current="page" class="active" data-i>Funktionen</a>
+      <a href="addons.html" data-i>Addons</a>
+      <a href="index.html#installation" data-i>Installation</a>
+      <a href="kontakt.html" data-i>Kontakt</a>
+      <a class="kofi" href="https://ko-fi.com/H3A22B1FM8" target="_blank" rel="noopener noreferrer" title="Ko-fi" data-i>♥ Spenden</a>
+      <a class="btn small" href="https://github.com/MisterMax50/SigmaNotes-Releases/releases/download/installer/SigmaNotes-Setup.exe" download data-i>Herunterladen</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-head">
+      <h1 data-i>Alle Funktionen</h1>
+      <p class="lead" data-i>Von der ersten Notiz bis zur vermaßten Zeichnung: Hier siehst du, was SigmaNotes kann – nach Aufgaben geordnet.</p>
+      <nav data-i-aria class="toc" aria-label="Inhalt">
+        <a href="#dokumente" data-i>Dokumente</a>
+        <a href="#zeichnen" data-i>Zeichnen &amp; Schreiben</a>
+        <a href="#formen" data-i>Formen</a>
+        <a href="#hilfsmittel" data-i>Lineal &amp; Zirkel</a>
+        <a href="#messen" data-i>Messen</a>
+        <a href="#text" data-i>Text im PDF</a>
+        <a href="#seiten" data-i>Seiten &amp; Ansicht</a>
+        <a href="#einfuegen" data-i>Einfügen</a>
+        <a href="#addons" data-i>Addons</a>
+      </nav>
+    </section>
+
+    <!-- ===================================================== Dokumente -->
+    <section id="dokumente" class="feature">
+      <div class="text">
+        <h2 data-i>Dokumente</h2>
+        <p data-i>Öffne mehrere PDFs gleichzeitig und behalte den Überblick. Deine Anmerkungen werden direkt in die PDF-Datei geschrieben – jeder andere PDF-Betrachter zeigt sie weiter an.</p>
+        <ul>
+          <li data-i><strong>Tabs</strong> – mehrere Dokumente nebeneinander.</li>
+          <li data-i><strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.</li>
+          <li data-i><strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.</li>
+          <li data-i><strong>Bibliothek</strong> – eigene Ordner für deine Dokumente; der Speicherort ist einstellbar.</li>
+          <li data-i><strong>Zuletzt geöffnet</strong> auf der Startseite des Programms.</li>
+          <li data-i><strong>Rückgängig / Wiederholen</strong> für alles, was du zeichnest.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Fenster mit drei Tabs und einer beschrifteten PDF-Seite">
+          <rect class="win" x="6" y="6" width="308" height="188" rx="10"/>
+          <rect class="tab on" x="16" y="14" width="76" height="22" rx="6"/><text class="t" x="26" y="29" data-i>Skript.pdf</text>
+          <rect class="tab" x="98" y="14" width="76" height="22" rx="6"/><text class="t" x="108" y="29" data-i>Übung 3</text>
+          <rect class="tab" x="180" y="14" width="30" height="22" rx="6"/><text class="t" x="190" y="30">+</text>
+          <rect class="page" x="70" y="46" width="180" height="140" rx="3"/>
+          <rect class="ln" x="86" y="62" width="110" height="6" rx="3"/><rect class="ln" x="86" y="76" width="140" height="6" rx="3"/>
+          <rect class="ln" x="86" y="90" width="90" height="6" rx="3"/><rect class="ln" x="86" y="104" width="130" height="6" rx="3"/>
+          <path class="ink" d="M90 150 q14 -22 28 0 t28 0 t28 0 t28 0"/>
+          <rect class="side" x="14" y="46" width="48" height="140" rx="4"/>
+          <path class="fold" d="M22 60h32v14h-32zM22 82h32v14h-32zM22 104h32v14h-32z"/>
+        </svg>
+        <figcaption data-i>Mehrere Dokumente in Tabs, links die Bibliothek.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Zeichnen -->
+    <section id="zeichnen" class="feature alt flip">
+      <div class="text">
+        <h2 data-i>Zeichnen &amp; Schreiben</h2>
+        <p data-i>Schreibe und skizziere frei von Hand – mit Maus, Stift oder Finger.</p>
+        <ul>
+          <li data-i><strong>Stift</strong> und <strong>Bleistift</strong> – der Bleistift ist dünn, leicht transparent und druckempfindlich.</li>
+          <li data-i><strong>Textmarker</strong> zum Hervorheben.</li>
+          <li data-i><strong>Radierer</strong> – entfernt ganze Striche; wahlweise auch mit einem Kreis.</li>
+          <li data-i><strong>Lasso</strong> und <strong>Rechteck-Auswahl</strong> – Zeichnungen auswählen, verschieben, skalieren oder löschen.</li>
+          <li data-i><strong>Laserpointer</strong> – zum Präsentieren, hinterlässt nichts auf der Seite.</li>
+          <li data-i><strong>Farben &amp; Paletten</strong> – eigene Paletten, Strichart und Stärke; mit <strong>Favoriten</strong> speicherst du deine Lieblingseinstellung.</li>
+          <li data-i><strong>Handschrift in Text umwandeln</strong> – automatisch, auf liniertem oder kariertem Papier eine Zeile pro Linie.</li>
+          <li data-i><strong>Touch-Modus</strong> – Finger scrollen und zoomen, nur der Stift zeichnet. Auf Wunsch zeichnen auch Finger.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Handschrift in verschiedenen Farben mit gelbem Textmarker">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <rect x="30" y="52" width="150" height="16" rx="3" fill="#ffe14d" opacity=".65"/>
+          <rect class="ln" x="30" y="56" width="150" height="7" rx="3"/>
+          <path d="M32 100 q10 -26 20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#1d3fd6" stroke-width="4" stroke-linecap="round"/>
+          <path d="M32 130 c30 -20 60 20 90 0 s60 -20 90 0" fill="none" stroke="#d6291d" stroke-width="3" stroke-linecap="round"/>
+          <path d="M32 160 h140" fill="none" stroke="#2e2e2e" stroke-width="1.5" stroke-linecap="round" opacity=".6"/>
+          <circle cx="250" cy="110" r="30" fill="none" stroke="#1a9b4a" stroke-width="4"/>
+          <rect x="236" y="30" width="56" height="30" rx="5" fill="none" stroke="#6b7cff" stroke-width="2" stroke-dasharray="5 4"/>
+          <circle cx="285" cy="150" r="6" fill="#e33"/><circle cx="285" cy="150" r="13" fill="none" stroke="#e33" opacity=".4"/>
+        </svg>
+        <figcaption data-i>Stift, Textmarker, Lasso-Auswahl und Laserpointer.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Formen -->
+    <section id="formen" class="feature">
+      <div class="text">
+        <h2 data-i>Formen</h2>
+        <p data-i>Zeichne saubere Formen – grob ziehen reicht. Mit <em>„Erweitert“</em> oder der Umschalttaste rasten Linien in 45°-Schritten ein, Rechtecke werden zu Quadraten und Ellipsen zu Kreisen.</p>
+        <ul>
+          <li data-i><strong>Linie</strong>, <strong>Pfeil</strong>, <strong>Rechteck</strong>, <strong>Ellipse</strong>.</li>
+          <li data-i><strong>Wolke</strong> – ein Rechteck mit welligem Rand, ideal zum Markieren von Bereichen.</li>
+          <li data-i><strong>Polygon</strong> und <strong>Polylinie</strong> – jeder Tipp setzt einen Punkt; Doppeltipp beendet.</li>
+          <li data-i><strong>Spline</strong> – eine glatte Kurve, deren Punkte du danach verziehen kannst.</li>
+          <li data-i><strong>Fläche</strong> – Eckpunkte setzen, Fläche und Umfang werden angezeigt.</li>
+          <li data-i><strong>Aussehen</strong> – Füllfarbe, Strichmuster, Anfang/Ende (z.&nbsp;B. Pfeilspitzen) und Marker pro Form.</li>
+          <li data-i><strong>Schraffur</strong> zum Füllen von Flächen.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Verschiedene Formen: Pfeil, Rechteck, Ellipse, Wolke, Polygon">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g fill="none" stroke="var(--accent)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+            <path d="M30 50 L110 50"/><path d="M96 40 L110 50 L96 60"/>
+            <rect x="130" y="32" width="70" height="40" rx="2"/>
+            <ellipse cx="260" cy="52" rx="34" ry="22" fill="var(--accent)" fill-opacity=".18"/>
+            <path d="M32 140 q8 -18 22 -8 q10 -16 24 -2 q16 -8 18 10 q10 12 -4 22 q-6 14 -22 6 q-14 10 -24 -2 q-18 -2 -14 -26z"/>
+            <path d="M140 150 L168 110 L214 124 L206 166 Z" fill="var(--accent)" fill-opacity=".18"/>
+            <path d="M240 160 C256 100 280 190 296 120"/>
+          </g>
+        </svg>
+        <figcaption data-i>Pfeil, Rechteck, Ellipse, Wolke, Polygon und Spline.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Hilfsmittel -->
+    <section id="hilfsmittel" class="feature alt flip">
+      <div class="text">
+        <h2 data-i>Lineal, Zirkel &amp; Einrasten</h2>
+        <p data-i>Wie auf Papier – nur präziser. Der Stift rastet an den Hilfsmitteln ein, sodass freihändig gezogene Striche gerade oder rund werden.</p>
+        <ul>
+          <li data-i><strong>Lineal</strong> – unendlich lang; verschieben durch Ziehen, drehen mit dem Griff, dem Mausrad oder zwei Fingern.</li>
+          <li data-i><strong>Zirkel</strong> – Nadel ziehen zum Verschieben, am Griff den Radius ändern oder den Radius in der Leiste eintippen.</li>
+          <li data-i><strong>Parabel</strong> y&nbsp;=&nbsp;x² als Schablone (1&nbsp;Einheit&nbsp;=&nbsp;1&nbsp;cm) – der Stift rastet an der Kurve ein.</li>
+          <li data-i><strong>Formerkennung</strong> – grob gezeichnete Linien, Kreise und Vielecke werden automatisch begradigt.</li>
+          <li data-i><strong>Papiervorlagen</strong> – kariert, liniert und weitere, mit einstellbarer Zeilenhöhe.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Lineal mit einrastender Linie und ein Zirkelkreis">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g transform="rotate(-12 110 120)">
+            <rect x="20" y="108" width="200" height="30" fill="#f6d77a" stroke="#b8942f" stroke-width="1.5"/>
+            <path d="M32 108v8M44 108v12M56 108v8M68 108v12M80 108v8M92 108v12M104 108v8M116 108v12M128 108v8M140 108v12M152 108v8M164 108v12M176 108v8M188 108v12M200 108v8" stroke="#8a6d1d"/>
+            <path d="M28 104 H212" stroke="#c4261d" stroke-width="3" stroke-linecap="round"/>
+          </g>
+          <circle cx="250" cy="76" r="42" fill="none" stroke="#1d3fd6" stroke-width="3"/>
+          <circle cx="250" cy="76" r="3" fill="#1d3fd6"/><path d="M250 76 L284 100" stroke="#6b7cff" stroke-width="1.5" stroke-dasharray="4 3"/>
+          <text class="t" x="270" y="94">r</text>
+        </svg>
+        <figcaption data-i>Der Strich rastet am Lineal ein, der Zirkel zieht saubere Kreise.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Messen -->
+    <section id="messen" class="feature">
+      <div class="text">
+        <h2 data-i>Messen &amp; Bemaßen</h2>
+        <p data-i>Miss Strecken, Winkel und Flächen direkt auf der Seite – mit einstellbarem Maßstab und Einheit.</p>
+        <ul>
+          <li data-i><strong>Bemaßung</strong> – Strecke ziehen, die Maßzahl steht über der Maßlinie und passt sich beim Verschieben oder Skalieren an.</li>
+          <li data-i><strong>Länge</strong> – Punkt für Punkt setzen und die Gesamtlänge ablesen.</li>
+          <li data-i><strong>Winkel</strong> – drei Punkte: Schenkel, Scheitel, Schenkel.</li>
+          <li data-i><strong>Fläche</strong> – Fläche und Umfang eines Vielecks.</li>
+          <li data-i><strong>Kanten messen</strong> – Seiten von Formen oder Linien antippen: eine Kante zeigt Länge und Neigung, zwei den Winkel (bei parallelen Kanten den Abstand).</li>
+          <li data-i><strong>Maßstab &amp; Einheit</strong> – oder an einer bekannten Strecke kalibrieren.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Bemaßte Strecke mit 4,2 cm und ein Winkel mit 60 Grad">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g stroke="var(--accent)" stroke-width="2" fill="none" stroke-linecap="round">
+            <path d="M40 60 H170"/><path d="M40 52 V68M170 52 V68"/><path d="M48 60 l8 -4v8zM162 60 l-8 -4v8z" fill="var(--accent)"/>
+          </g>
+          <text class="t big" x="82" y="50">4,2 cm</text>
+          <g fill="none" stroke="#2e2e2e" stroke-width="2.5" stroke-linecap="round">
+            <path d="M60 170 H170"/><path d="M60 170 L110 100"/>
+          </g>
+          <path d="M92 170 A32 32 0 0 0 82 148" fill="none" stroke="var(--accent)" stroke-width="2"/>
+          <text class="t big" x="96" y="156">60°</text>
+          <path d="M215 150 L240 100 L292 118 L282 168 Z" fill="var(--accent)" fill-opacity=".15" stroke="#2e2e2e" stroke-width="2.5" stroke-linejoin="round"/>
+          <text class="t" x="236" y="140">12,5 cm²</text>
+        </svg>
+        <figcaption data-i>Bemaßte Strecke, Winkel und Flächenangabe.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Text -->
+    <section id="text" class="feature alt flip">
+      <div class="text">
+        <h2 data-i>Text im PDF</h2>
+        <p data-i>Arbeite mit dem Text, der schon im PDF steht, oder setze eigenen dazu.</p>
+        <ul>
+          <li data-i><strong>Markieren</strong>, <strong>Unterstreichen</strong>, <strong>Durchstreichen</strong> – Text ziehen, fertig.</li>
+          <li data-i><strong>Schwärzen</strong> – deckt Text mit einem schwarzen Balken ab. Achtung: Der Text bleibt im PDF erhalten und ist nur verdeckt.</li>
+          <li data-i><strong>Spoiler</strong> – Text wird verdeckt und zeigt sich erst, wenn du mit der Maus darüberfährst. Praktisch zum Lernen.</li>
+          <li data-i><strong>Text auswählen</strong> – PDF-Text markieren und kopieren.</li>
+          <li data-i><strong>Textfeld</strong> – eigenen Text auf die Seite setzen.</li>
+          <li data-i><strong>Suchen</strong> – mit Trefferliste und Sprung zum nächsten und vorherigen Treffer.</li>
+          <li data-i><strong>Texterkennung (OCR)</strong> – macht gescannte Seiten durchsuchbar und den Text auswählbar.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Textzeilen mit Markierung, Unterstreichung, Durchstreichung, Schwärzung und Spoiler">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <rect x="30" y="32" width="150" height="14" rx="2" fill="#ffe14d" opacity=".7"/><rect class="ln" x="30" y="36" width="150" height="6" rx="3"/>
+          <rect class="ln" x="30" y="66" width="190" height="6" rx="3"/><path d="M30 80 H220" stroke="#d6291d" stroke-width="2.5"/>
+          <rect class="ln" x="30" y="100" width="170" height="6" rx="3"/><path d="M30 104 H200" stroke="#2e2e2e" stroke-width="2"/>
+          <rect x="30" y="126" width="120" height="14" rx="2" fill="#111"/>
+          <rect x="30" y="150" width="120" height="14" rx="3" fill="var(--accent)" opacity=".85"/><text class="t" x="62" y="161" fill="#fff" style="fill:#fff" data-i>Spoiler</text>
+          <rect x="226" y="30" width="74" height="22" rx="5" fill="#fff" stroke="#c9cfe3"/><text class="t" x="240" y="45" data-i>Treffer 2/5</text>
+        </svg>
+        <figcaption data-i>Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Seiten -->
+    <section id="seiten" class="feature">
+      <div class="text">
+        <h2 data-i>Seiten &amp; Ansicht</h2>
+        <p data-i>Strukturiere dein Dokument und stelle die Ansicht so ein, wie du sie brauchst.</p>
+        <ul>
+          <li data-i><strong>Seiten einfügen</strong> – eine leere Seite oder alle Seiten einer anderen PDF nach der aktuellen.</li>
+          <li data-i><strong>Seite löschen</strong> – rückgängig machbar.</li>
+          <li data-i><strong>Hoch- und Querformat</strong> sowie wechselbare Vorlagen und Lineatur für die aktuelle oder alle Seiten.</li>
+          <li data-i><strong>Seitenvorschau</strong> mit Miniaturen zum schnellen Springen.</li>
+          <li data-i><strong>Lesezeichen</strong> – setze sie auf eine Seite oder an eine bestimmte Stelle, mit Hierarchie (Einrücken/Ausrücken, Umbenennen).</li>
+          <li data-i><strong>Zoom</strong> – vergrößern, verkleinern, an die Seitenbreite anpassen oder die ganze Seite anzeigen.</li>
+          <li data-i><strong>Zwei Seiten nebeneinander</strong> und <strong>Vollbild</strong>.</li>
+          <li data-i><strong>Sprachen</strong> – Oberfläche auf Deutsch, Englisch, Tschechisch, Spanisch, Französisch, Italienisch, Japanisch, Koreanisch, Polnisch, Portugiesisch (Brasilien), Russisch, Türkisch sowie Chinesisch (vereinfacht und traditionell). Standard ist die Sprache von Windows, umschaltbar in den Einstellungen.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Seitenvorschau links, zwei Seiten nebeneinander, Lesezeichen">
+          <rect class="win" x="6" y="6" width="308" height="188" rx="10"/>
+          <g class="page"><rect x="16" y="18" width="44" height="58" rx="2"/><rect x="16" y="84" width="44" height="58" rx="2" stroke="var(--accent)" stroke-width="2"/><rect x="16" y="150" width="44" height="38" rx="2"/></g>
+          <rect class="page" x="74" y="18" width="110" height="168" rx="3"/><rect class="page" x="192" y="18" width="110" height="168" rx="3"/>
+          <g class="ln"><rect x="86" y="34" width="80" height="6" rx="3"/><rect x="86" y="48" width="60" height="6" rx="3"/><rect x="204" y="34" width="80" height="6" rx="3"/><rect x="204" y="48" width="70" height="6" rx="3"/></g>
+          <path d="M168 18 v34 l9 -8 l9 8 v-34z" fill="#e0362c"/>
+        </svg>
+        <figcaption data-i>Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Einfügen -->
+    <section id="einfuegen" class="feature alt flip">
+      <div class="text">
+        <h2 data-i>Einfügen</h2>
+        <p data-i>Bringe Bilder und Ausschnitte in dein Dokument.</p>
+        <ul>
+          <li data-i><strong>Bild aus Datei</strong> – auch per Drag &amp; Drop auf die Seite.</li>
+          <li data-i><strong>Bild aus der Zwischenablage</strong> – z.&nbsp;B. einen Screenshot.</li>
+          <li data-i><strong>Schnappschuss</strong> – einen Bereich aufziehen und als Bild kopieren oder speichern.</li>
+          <li data-i>Eingefügte Bilder lassen sich verschieben und skalieren wie jede andere Auswahl.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Eingefügtes Bild und gestrichelter Schnappschuss-Rahmen">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <rect x="34" y="34" width="120" height="86" rx="4" fill="var(--accent)" fill-opacity=".2" stroke="var(--accent)" stroke-width="2"/>
+          <circle cx="64" cy="62" r="10" fill="#ffd34d"/><path d="M34 120 l36 -34 l26 24 l20 -18 l38 28z" fill="#4aa564"/>
+          <rect x="176" y="74" width="114" height="80" rx="3" fill="none" stroke="#6b7cff" stroke-width="2" stroke-dasharray="6 4"/>
+          <text class="t" x="196" y="118" data-i>Schnappschuss</text>
+        </svg>
+        <figcaption data-i>Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.</figcaption>
+      </figure>
+    </section>
+
+    <!-- ===================================================== Addons -->
+    <section id="addons" class="feature">
+      <div class="text">
+        <h2 data-i>Addons</h2>
+        <p data-i>Zusatzmodule für Fachgebiete. Du wählst sie einzeln beim Installieren aus und kannst sie jederzeit dazunehmen oder entfernen – das Programm bleibt schlank.</p>
+        <ul>
+          <li data-i><strong>Mathe</strong> – Formeln (LaTeX) einfügen sowie 2D- und 3D-Koordinatensysteme mit Funktionen, Flächen und Raumkurven.</li>
+          <li data-i><strong>Elektrotechnik</strong> – Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.</li>
+          <li data-i><strong>Musik</strong> – Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten; sie rasten auf den Notenlinien des Notenpapiers ein.</li>
+        </ul>
+      </div>
+      <figure>
+        <svg data-i-aria viewBox="0 0 320 200" role="img" aria-label="Koordinatensystem mit Funktion, Schaltzeichen und Notenzeile">
+          <rect class="page" x="10" y="10" width="300" height="180" rx="6"/>
+          <g fill="none" stroke="#2e2e2e" stroke-width="1.5"><path d="M24 90 H140 M82 28 V150"/></g>
+          <path d="M30 140 Q82 -10 136 140" fill="none" stroke="var(--accent)" stroke-width="3"/>
+          <g fill="none" stroke="#2e2e2e" stroke-width="2"><path d="M170 50 H196 M244 50 H290 M196 40 V60 M244 40 V60"/><rect x="204" y="42" width="32" height="16"/><path d="M170 50 V90 H190 M290 50 V90 H260"/><path d="M190 82 v16 M260 82 v16" /></g>
+          <g stroke="#2e2e2e" stroke-width="1"><path d="M30 164 H300 M30 170 H300 M30 176 H300 M30 182 H300"/></g>
+          <ellipse cx="90" cy="173" rx="6" ry="4.5" fill="#2e2e2e"/><path d="M96 173 V152" stroke="#2e2e2e" stroke-width="1.5"/>
+          <ellipse cx="150" cy="167" rx="6" ry="4.5" fill="#2e2e2e"/><path d="M156 167 V146" stroke="#2e2e2e" stroke-width="1.5"/>
+        </svg>
+        <figcaption data-i>Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.</figcaption>
+      </figure>
+    </section>
+
+    <section class="cta-band">
+      <h2 data-i>Überzeugt?</h2>
+      <p data-i>Der Installer lädt SigmaNotes und die gewählten Addons direkt für dich herunter.</p>
+      <p><a class="btn" href="https://github.com/MisterMax50/SigmaNotes-Releases/releases/download/installer/SigmaNotes-Setup.exe" download data-i>Installer herunterladen</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <div class="donate">
+      <p data-i>Gefällt dir SigmaNotes? Mit einer kleinen Spende unterstützt du die Weiterentwicklung.</p>
+      <p><a class="btn" href="https://ko-fi.com/H3A22B1FM8" target="_blank" rel="noopener noreferrer" data-i>Auf Ko-fi unterstützen</a></p>
+    </div>
+    <p data-i>SigmaNotes · Die Bilder sind schematische Illustrationen.</p>
+  </footer>
+</body>
+</html>
