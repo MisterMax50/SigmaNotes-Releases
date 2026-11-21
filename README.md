@@ -41,7 +41,10 @@ Extra modules for specific fields – pick only what you need, add or remove the
 
 ## Feedback & support
 
-- Report bugs and suggest ideas: [GitHub Issues](https://github.com/MisterMax50/SigmaNotes-Releases/issues)
+- General questions: [contact@sigma-notes.com](mailto:contact@sigma-notes.com)
+- Report a bug: [bugs@sigma-notes.com](mailto:bugs@sigma-notes.com)
+- Suggest an idea: [ideas@sigma-notes.com](mailto:ideas@sigma-notes.com)
+- Language / translation: [localisation@sigma-notes.com](mailto:localisation@sigma-notes.com)
 - Like SigmaNotes? [Support it on Ko-fi](https://ko-fi.com/H3A22B1FM8)
 
 ---
@@ -89,5 +92,8 @@ Zusatzmodule für Fachgebiete – einzeln wählbar, jederzeit nachinstallierbar:
 
 ## Feedback & Unterstützung
 
-- Fehler melden und Ideen vorschlagen: [GitHub Issues](https://github.com/MisterMax50/SigmaNotes-Releases/issues)
+- Allgemeine Fragen: [contact@sigma-notes.com](mailto:contact@sigma-notes.com)
+- Fehler melden: [bugs@sigma-notes.com](mailto:bugs@sigma-notes.com)
+- Idee vorschlagen: [ideas@sigma-notes.com](mailto:ideas@sigma-notes.com)
+- Sprache / Übersetzung: [localisation@sigma-notes.com](mailto:localisation@sigma-notes.com)
 - Gefällt dir SigmaNotes? [Auf Ko-fi unterstützen](https://ko-fi.com/H3A22B1FM8)
