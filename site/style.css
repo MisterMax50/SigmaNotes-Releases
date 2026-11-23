@@ -110,6 +110,9 @@ html.i18n-wait body { opacity: 0; }
 /* Ko-fi-Link in der Leiste (auch auf schmalen Bildschirmen sichtbar) */
 .nav nav a.kofi { display: inline; color: #ff5e5b; font-weight: 600; }
 
+/* Spenden vorerst ausgeblendet (zum Wiedereinblenden diese Regel entfernen) */
+.nav nav a.kofi, .donate { display: none !important; }
+
 /* Hinweisfenster vor dem Download */
 .disclaimer-actions .btn.secondary { background: transparent; color: var(--text); border-color: var(--border); }
 .disclaimer-actions .btn.secondary:hover { background: var(--bg-alt); }
