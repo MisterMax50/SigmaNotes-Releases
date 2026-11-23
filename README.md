@@ -45,7 +45,6 @@ Extra modules for specific fields – pick only what you need, add or remove the
 - Report a bug: [bugs@sigma-notes.com](mailto:bugs@sigma-notes.com)
 - Suggest an idea: [ideas@sigma-notes.com](mailto:ideas@sigma-notes.com)
 - Language / translation: [localisation@sigma-notes.com](mailto:localisation@sigma-notes.com)
-- Like SigmaNotes? [Support it on Ko-fi](https://ko-fi.com/H3A22B1FM8)
 
 ---
 
@@ -96,4 +95,3 @@ Zusatzmodule für Fachgebiete – einzeln wählbar, jederzeit nachinstallierbar:
 - Fehler melden: [bugs@sigma-notes.com](mailto:bugs@sigma-notes.com)
 - Idee vorschlagen: [ideas@sigma-notes.com](mailto:ideas@sigma-notes.com)
 - Sprache / Übersetzung: [localisation@sigma-notes.com](mailto:localisation@sigma-notes.com)
-- Gefällt dir SigmaNotes? [Auf Ko-fi unterstützen](https://ko-fi.com/H3A22B1FM8)
