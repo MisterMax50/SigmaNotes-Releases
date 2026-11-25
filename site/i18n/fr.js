@@ -86,7 +86,7 @@ window.PN_I18N["fr"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Surligné, souligné, barré, noirci, masqué en spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Aperçu des pages, deux pages côte à côte et un signet.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Insérez une image ou capturez une zone sous forme d'image.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Maths : graphe de fonction · Électrotechnique : circuit · Musique : partition.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Maths : graphe de fonction · Électrotechnique : circuit · Musique : partition · Diagrammes : organigramme.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Onglets</strong> – plusieurs documents côte à côte.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Nouveau, Ouvrir, Enregistrer, Imprimer, Exporter</strong> dans le menu Fichier.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Glisser-déposer</strong> – faites glisser des PDF et des images directement dans la fenêtre.",

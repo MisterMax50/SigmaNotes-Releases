@@ -86,7 +86,7 @@ window.PN_I18N["tr"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"İşaretli, altı çizili, üstü çizili, karartılmış, spoiler olarak gizli.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Sayfa önizlemesi, yan yana iki sayfa ve bir yer imi.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Resim ekle ya da bir alanı anlık görüntü olarak al.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Matematik: fonksiyon grafiği · Elektrik-elektronik: devre · Müzik: notalar.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Matematik: fonksiyon grafiği · Elektrik-elektronik: devre · Müzik: notalar · Diyagramlar: akış şeması.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Sekmeler</strong> – birden çok belgeyi yan yana açın.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"Dosya menüsünde <strong>Yeni, Aç, Kaydet, Yazdır, Dışa aktar</strong>.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Sürükle &amp; bırak</strong> – PDF'leri ve resimleri doğrudan pencereye sürükleyin.",

@@ -86,7 +86,7 @@ window.PN_I18N["cs"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Zvýrazněno, podtrženo, přeškrtnuto, začerněno, skryto jako spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Náhled stránek, dvě stránky vedle sebe a záložka.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Vlož obrázek nebo zachyť oblast jako snímek.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Matematika: graf funkce · Elektrotechnika: schéma · Hudba: noty.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Matematika: graf funkce · Elektrotechnika: schéma · Hudba: noty · Diagramy: vývojový diagram.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Karty</strong> – více dokumentů vedle sebe.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Nový, Otevřít, Uložit, Tisk, Exportovat</strong> v nabídce Soubor.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Přetažení myší</strong> – PDF a obrázky stačí přetáhnout do okna.",

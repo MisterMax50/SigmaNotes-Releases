@@ -86,7 +86,7 @@ window.PN_I18N["zh-Hant"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"標示螢光、加底線、刪除線、塗黑，或以劇透遮罩隱藏。",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"頁面預覽、雙頁並排與書籤。",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"插入圖片，或擷取一個區域作為截圖。",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"數學：函數圖形 · 電機工程：電路 · 音樂：樂譜。",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"數學：函數圖形 · 電機工程：電路 · 音樂：樂譜 · 圖表：流程圖。",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>分頁</strong>：多份文件並排開啟。",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"檔案選單中的<strong>新增、開啟、儲存、列印、匯出</strong>。",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>拖放</strong>：直接將 PDF 與圖片拖到視窗上即可。",

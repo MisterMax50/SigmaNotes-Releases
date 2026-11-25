@@ -86,7 +86,7 @@ window.PN_I18N["ja"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"ハイライト、下線、取り消し線、黒塗り、ネタバレとして隠す。",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"ページプレビュー、2 ページ並列表示、しおり。",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"画像を挿入するか、範囲を選んでスナップショットを撮影。",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"数学：関数グラフ · 電気工学：回路 · 音楽：楽譜。",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"数学：関数グラフ · 電気工学：回路 · 音楽：楽譜 · ダイアグラム：フローチャート。",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>タブ</strong> – 複数のドキュメントを並べて開けます。",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"ファイルメニューの <strong>新規、開く、保存、印刷、エクスポート</strong>。",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>ドラッグ &amp; ドロップ</strong> – PDF や画像をウィンドウにドラッグするだけ。",

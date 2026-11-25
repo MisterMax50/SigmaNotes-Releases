@@ -86,7 +86,7 @@ window.PN_I18N["pl"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Zakreślone, podkreślone, przekreślone, zamazane, ukryte jako spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Podgląd stron, dwie strony obok siebie i zakładka.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Wstaw obraz lub zrób zrzut wybranego obszaru.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Matematyka: wykres funkcji · Elektrotechnika: schemat · Muzyka: nuty.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Matematyka: wykres funkcji · Elektrotechnika: schemat · Muzyka: nuty · Diagramy: schemat blokowy.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Karty</strong> – wiele dokumentów obok siebie.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Nowy, Otwórz, Zapisz, Drukuj, Eksportuj</strong> w menu Plik.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Przeciągnij i upuść</strong> – po prostu przeciągnij pliki PDF i obrazy do okna.",

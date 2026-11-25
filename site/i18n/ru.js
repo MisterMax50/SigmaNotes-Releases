@@ -86,7 +86,7 @@ window.PN_I18N["ru"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Выделено, подчёркнуто, зачёркнуто, закрашено чёрным, скрыто как спойлер.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Предпросмотр страниц, две страницы рядом и закладка.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Вставьте изображение или сделайте снимок области.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Математика: график функции · Электротехника: схема · Музыка: ноты.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Математика: график функции · Электротехника: схема · Музыка: ноты · Диаграммы: блок-схема.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Вкладки</strong> – несколько документов рядом.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Создать, открыть, сохранить, напечатать, экспортировать</strong> – в меню «Файл».",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Drag &amp; Drop</strong> – просто перетащите PDF и изображения в окно.",

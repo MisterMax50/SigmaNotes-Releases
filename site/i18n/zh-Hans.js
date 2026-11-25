@@ -86,7 +86,7 @@ window.PN_I18N["zh-Hans"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"高亮、下划线、删除线、涂黑，或以剧透方式遮盖。",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"页面预览、双页并排显示和书签。",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"插入图片，或将某个区域截取为截图。",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"数学：函数图像 · 电气工程：电路 · 音乐：乐谱。",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"数学：函数图像 · 电气工程：电路 · 音乐：乐谱 · 图表：流程图。",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>标签页</strong>——同时打开多个文档。",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"文件菜单中的<strong>新建、打开、保存、打印、导出</strong>。",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>拖放</strong>——直接将 PDF 和图片拖到窗口中即可。",

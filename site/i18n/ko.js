@@ -86,7 +86,7 @@ window.PN_I18N["ko"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"강조, 밑줄, 취소선, 검게 가리기, 스포일러로 가리기.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"페이지 미리보기, 두 페이지 나란히 보기, 책갈피.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"이미지를 삽입하거나 영역을 스냅샷으로 캡처.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"수학: 함수 그래프 · 전기공학: 회로 · 음악: 악보.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"수학: 함수 그래프 · 전기공학: 회로 · 음악: 악보 · 다이어그램: 순서도.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>탭</strong> – 여러 문서를 나란히 엽니다.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"파일 메뉴에서 <strong>새로 만들기, 열기, 저장, 인쇄, 내보내기</strong>.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>드래그 &amp; 드롭</strong> – PDF와 이미지를 창에 끌어다 놓기만 하면 됩니다.",

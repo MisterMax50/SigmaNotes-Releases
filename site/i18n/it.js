@@ -86,7 +86,7 @@ window.PN_I18N["it"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Evidenziato, sottolineato, barrato, oscurato, nascosto come spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Anteprima delle pagine, due pagine affiancate e un segnalibro.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Inserisci un'immagine o acquisisci un'area come istantanea.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Matematica: grafico di funzione · Elettrotecnica: circuito · Musica: spartito.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Matematica: grafico di funzione · Elettrotecnica: circuito · Musica: spartito · Diagrammi: diagramma di flusso.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Schede</strong> – più documenti affiancati.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Nuovo, Apri, Salva, Stampa, Esporta</strong> nel menu File.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Drag &amp; drop</strong> – trascina semplicemente PDF e immagini sulla finestra.",

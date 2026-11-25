@@ -86,7 +86,7 @@ window.PN_I18N["en"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Highlighted, underlined, struck through, redacted, hidden as a spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Page preview, two pages side by side and a bookmark.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Insert an image or capture an area as a snapshot.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Math: function graph · Electrical engineering: circuit · Music: notes.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Math: function graph · Electrical engineering: circuit · Music: notes · Diagrams: flowchart.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Tabs</strong> – several documents side by side.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>New, Open, Save, Print, Export</strong> in the File menu.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Drag &amp; drop</strong> – just drag PDFs and images onto the window.",

@@ -86,7 +86,7 @@ window.PN_I18N["es"] = {
 "Markiert, unterstrichen, durchgestrichen, geschwärzt, als Spoiler verdeckt.":"Resaltado, subrayado, tachado, censurado y oculto como spoiler.",
 "Seitenvorschau, zwei Seiten nebeneinander und ein Lesezeichen.":"Vista previa de páginas, dos páginas en paralelo y un marcador.",
 "Bild einfügen oder einen Bereich als Schnappschuss aufnehmen.":"Inserta una imagen o captura una zona como instantánea.",
-"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten.":"Matemáticas: gráfica de funciones · Electrotecnia: circuito · Música: partituras.",
+"Mathe: Funktionsgraph · Elektrotechnik: Schaltung · Musik: Noten · Diagramme: Flussdiagramm.":"Matemáticas: gráfica de funciones · Electrotecnia: circuito · Música: partituras · Diagramas: diagrama de flujo.",
 "<strong>Tabs</strong> – mehrere Dokumente nebeneinander.":"<strong>Pestañas</strong> – varios documentos uno junto a otro.",
 "<strong>Neu, Öffnen, Speichern, Drucken, Exportieren</strong> im Datei-Menü.":"<strong>Nuevo, Abrir, Guardar, Imprimir, Exportar</strong> en el menú Archivo.",
 "<strong>Drag &amp; Drop</strong> – PDFs und Bilder einfach auf das Fenster ziehen.":"<strong>Arrastrar y soltar</strong> – arrastra PDFs e imágenes directamente a la ventana.",
