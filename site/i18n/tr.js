@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["tr"] = {
 "Addons – SigmaNotes":"Eklentiler – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"SigmaNotes’un matematik, elektrik mühendisliği ve müzik eklentilerine genel bakış – özellikler ve görsellerle.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"SigmaNotes’un matematik, elektrik mühendisliği, müzik ve diyagram eklentilerine genel bakış – özellikler ve görsellerle.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Formüller</strong> – LaTeX yazın ve sayfaya düzgün bir formül olarak yerleştirin.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Koordinat sistemleri</strong> – 2B ve 3B, fonksiyonlar, yüzeyler ve uzay eğrileriyle.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Devre sembolleri</strong> – IEC/DIN ve ANSI’ye göre bileşenleri aranabilir bir katalogdan yerleştirin.",
@@ -59,7 +59,7 @@ window.PN_I18N["tr"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"IEC/DIN ve ANSI'ye göre devre sembolleri yerleştir, hatları düğüm noktalarıyla çiz, aramalı bileşen kataloğu.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Nota anahtarları, notalar, ara değerler, işaretler ve ölçü türleri – nota kağıdının nota çizgilerine hizalanır.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Not: Windows açarken bir uyarı gösterirse bu normaldir. “Daha fazla bilgi”ye, ardından “Yine de çalıştır”a tıklamanız yeterlidir.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: PDF'leri kalem, şekiller, ölçüm araçları ve matematik, elektrik-elektronik ve müzik eklentileriyle etiketleyin. Windows için indirin.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: PDF'leri kalem, şekiller, ölçüm araçları ve matematik, elektrik-elektronik, müzik ve diyagram eklentileriyle etiketleyin. Windows için indirin.",
 "Start":"Başlangıç",
 "Dokumente":"Belgeler",
 "Zeichnen &amp; Schreiben":"Çizim &amp; Yazı",
@@ -255,4 +255,15 @@ window.PN_I18N["tr"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"Programda desteğe başlık çubuğundaki kırmızı bayrak simgesiyle ulaşırsın. Tüm adresleri <a href=\"kontakt.html\">iletişim sayfasında</a> da bulursun.",
 "Alle Funktionen im Überblick":"Tüm özelliklere genel bakış",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"SigmaNotes wiki’si: belgelerin, kalemlerin, şekillerin, cetvel ve pergelin, ölçü araçlarının, metin araçlarının ve sayfaların nasıl kullanılacağına dair adım adım açıklamalar.",
+"Diagramme":"Diyagramlar",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Zihin haritaları ve akış şemaları çizin: metinli şekiller, oklu bağlayıcılar ve hızlı zihin haritaları için klavye kısayolları.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Metinli şekiller</strong> – dikdörtgen, eşkenar dörtgen, elips, başlangıç/bitiş ve daha fazlasını yerleştirin ve doğrudan içine yazın.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Bağlayıcılar</strong> – çizgi ve okları şekilden şekle sürükleyin; düz, dik açılı veya eğri olabilir; şekilleri taşıdığınızda onlarla birlikte hareket eder.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Zihin haritası</strong> – Tab alt düğüm, Enter aynı düzeyde düğüm ekler.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diyagramlar: şekiller ve oklarla akış şeması.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Zihin haritaları ve akış şemaları: metinli şekiller, şekillere bağlı kalan oklu bağlayıcılar ve hızlı zihin haritaları için Tab/Enter.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diyagramlar</strong> – metinli şekillerden ve onlarla birlikte hareket eden bağlayıcılardan oluşan zihin haritaları ve akış şemaları.",
+"Beginn":"Başlangıç",
+"Schritt":"Adım",
+"Ja":"Evet",
 };

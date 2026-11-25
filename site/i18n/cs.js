@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["cs"] = {
 "Addons – SigmaNotes":"Addony – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Přehled addonů SigmaNotes pro matematiku, elektrotechniku a hudbu – s funkcemi a obrázky.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Přehled addonů SigmaNotes pro matematiku, elektrotechniku, hudbu a diagramy – s funkcemi a obrázky.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Vzorce</strong> – zadejte LaTeX a vložte jej na stránku jako čistý vzorec.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Souřadnicové soustavy</strong> – ve 2D a 3D, s funkcemi, plochami a prostorovými křivkami.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Schematické značky</strong> – součástky podle IEC/DIN a ANSI z katalogu s vyhledáváním.",
@@ -59,7 +59,7 @@ window.PN_I18N["cs"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Zakresluj schematické značky podle IEC/DIN a ANSI, veď vodiče s uzly, využij katalog součástek s vyhledáváním.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Houslové klíče, noty, pomlky, posuvky a taktová označení – přichytávají se k notovým linkám notového papíru.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Poznámka: Pokud Windows při otevření zobrazí upozornění, je to normální. Stačí kliknout na „Další informace“ a potom na „Přesto spustit“.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: popisuj PDF perem, tvary, měřicími nástroji a addony pro matematiku, elektrotechniku a hudbu. Ke stažení pro Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: popisuj PDF perem, tvary, měřicími nástroji a addony pro matematiku, elektrotechniku, hudbu a diagramy. Ke stažení pro Windows.",
 "Start":"Úvod",
 "Dokumente":"Dokumenty",
 "Zeichnen &amp; Schreiben":"Kreslení &amp; psaní",
@@ -255,4 +255,15 @@ window.PN_I18N["cs"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"V programu se k podpoře dostaneš přes červenou ikonu vlajky v záhlaví. Všechny adresy najdeš také na <a href=\"kontakt.html\">stránce kontaktu</a>.",
 "Alle Funktionen im Überblick":"Přehled všech funkcí",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"Wiki SigmaNotes: krok za krokem vysvětleno, jak používat dokumenty, pera, tvary, pravítko a kružítko, měřicí nástroje, textové nástroje a stránky.",
+"Diagramme":"Diagramy",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Kreslete myšlenkové mapy a vývojové diagramy: tvary s textem, spojnice se šipkami a klávesové zkratky pro rychlé myšlenkové mapy.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Tvary s textem</strong> – vkládejte obdélníky, kosočtverce, elipsy, začátek/konec a další a rovnou do nich pište.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Spojnice</strong> – táhněte čáry a šipky od tvaru k tvaru, rovně, v pravých úhlech nebo obloukem; při posunu tvarů se pohybují s nimi.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Myšlenková mapa</strong> – Tab přidá podřízený uzel, Enter sousední uzel.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diagramy: vývojový diagram s tvary a šipkami.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Myšlenkové mapy a vývojové diagramy: tvary s textem, spojnice se šipkami, které zůstanou připojené k tvarům, a Tab/Enter pro rychlé myšlenkové mapy.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diagramy</strong> – myšlenkové mapy a vývojové diagramy z tvarů s textem a spojnic, které se při posunu pohybují s nimi.",
+"Beginn":"Začátek",
+"Schritt":"Krok",
+"Ja":"Ano",
 };

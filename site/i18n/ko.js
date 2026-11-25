@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["ko"] = {
 "Addons – SigmaNotes":"애드온 – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"수학, 전기공학, 음악용 SigmaNotes 애드온을 기능과 이미지로 소개합니다.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"수학, 전기공학, 음악, 다이어그램용 SigmaNotes 애드온을 기능과 이미지로 소개합니다.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>수식</strong> – LaTeX를 입력해 깔끔한 수식으로 페이지에 넣습니다.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>좌표계</strong> – 2D와 3D에서 함수, 곡면, 공간 곡선을 지원합니다.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>회로 기호</strong> – 검색 가능한 카탈로그에서 IEC/DIN 및 ANSI 부품을 배치합니다.",
@@ -59,7 +59,7 @@ window.PN_I18N["ko"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"IEC/DIN 및 ANSI 기준 회로 기호 배치, 노드가 있는 배선 그리기, 검색 가능한 부품 카탈로그.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"음자리표, 음표, 쉼표, 임시표, 박자표 – 악보 용지의 오선에 맞춰 스냅됩니다.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"참고: 열 때 Windows에서 경고가 표시되더라도 정상입니다. “추가 정보”를 누른 다음 “실행”을 누르세요.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: 펜, 도형, 측정 도구와 수학·전기공학·음악 애드온으로 PDF에 메모하세요. Windows용 다운로드.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: 펜, 도형, 측정 도구와 수학·전기공학·음악·다이어그램 애드온으로 PDF에 메모하세요. Windows용 다운로드.",
 "Start":"시작",
 "Dokumente":"문서",
 "Zeichnen &amp; Schreiben":"그리기 &amp; 쓰기",
@@ -255,4 +255,15 @@ window.PN_I18N["ko"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"프로그램에서는 제목 표시줄의 빨간 깃발 아이콘으로 지원에 연락할 수 있습니다. 모든 주소는 <a href=\"kontakt.html\">문의 페이지</a>에도 있습니다.",
 "Alle Funktionen im Überblick":"모든 기능 한눈에 보기",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"SigmaNotes 위키: 문서, 펜, 도형, 자와 컴퍼스, 측정 도구, 텍스트 도구, 페이지를 사용하는 방법을 단계별로 설명합니다.",
+"Diagramme":"다이어그램",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"마인드맵과 순서도를 그립니다: 텍스트가 들어가는 도형, 화살표 연결선, 마인드맵을 빠르게 만드는 단축키.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>텍스트가 있는 도형</strong> – 사각형, 마름모, 타원, 시작/끝 등을 배치하고 바로 글을 입력합니다.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>연결선</strong> – 도형에서 도형으로 선과 화살표를 끌어 연결합니다. 직선, 직각, 곡선을 선택할 수 있고 도형을 옮기면 함께 따라갑니다.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>마인드맵</strong> – Tab은 하위 노드를, Enter는 같은 단계의 노드를 추가합니다.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"다이어그램: 도형과 화살표가 있는 순서도.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"마인드맵과 순서도: 텍스트가 있는 도형, 도형에 붙어 있는 화살표 연결선, 빠른 마인드맵을 위한 Tab/Enter.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>다이어그램</strong> – 텍스트가 있는 도형과 함께 움직이는 연결선으로 만드는 마인드맵과 순서도.",
+"Beginn":"시작",
+"Schritt":"단계",
+"Ja":"예",
 };

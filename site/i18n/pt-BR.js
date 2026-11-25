@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["pt-BR"] = {
 "Addons – SigmaNotes":"Addons – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Visão geral dos addons do SigmaNotes para matemática, eletrotécnica e música – com funções e imagens.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Visão geral dos addons do SigmaNotes para matemática, eletrotécnica, música e diagramas – com funções e imagens.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Fórmulas</strong> – digite LaTeX e insira na página como uma fórmula nítida.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Sistemas de coordenadas</strong> – em 2D e 3D, com funções, superfícies e curvas no espaço.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Símbolos de circuito</strong> – posicione componentes conforme IEC/DIN e ANSI a partir de um catálogo com busca.",
@@ -59,7 +59,7 @@ window.PN_I18N["pt-BR"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Insira símbolos de circuito conforme IEC/DIN e ANSI, desenhe conexões com nós e use um catálogo de componentes com pesquisa.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Chaves de clave, notas, pausas, acidentes e compassos – encaixam nas linhas da pauta.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Observação: se o Windows mostrar um aviso ao abrir, isso é normal. Basta clicar em “Mais informações” e depois em “Executar assim mesmo”.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: anote PDFs com caneta, formas, ferramentas de medição e addons para matemática, eletrotécnica e música. Download para Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: anote PDFs com caneta, formas, ferramentas de medição e addons para matemática, eletrotécnica, música e diagramas. Download para Windows.",
 "Start":"Início",
 "Dokumente":"Documentos",
 "Zeichnen &amp; Schreiben":"Desenhar &amp; escrever",
@@ -255,4 +255,15 @@ window.PN_I18N["pt-BR"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"No programa você chega ao suporte pelo ícone vermelho de bandeira na barra de título. Todos os endereços também estão na <a href=\"kontakt.html\">página de contato</a>.",
 "Alle Funktionen im Überblick":"Visão geral de todos os recursos",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"A wiki do SigmaNotes: explicações passo a passo de como usar documentos, canetas, formas, régua e compasso, ferramentas de medição, ferramentas de texto e páginas.",
+"Diagramme":"Diagramas",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Desenhe mapas mentais e fluxogramas: formas com texto, conectores com setas e atalhos de teclado para criar mapas mentais rapidamente.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Formas com texto</strong> – insira retângulos, losangos, elipses, início/fim e mais, e escreva diretamente dentro delas.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Conectores</strong> – arraste linhas e setas de uma forma para outra, retas, em ângulo reto ou curvas; elas acompanham as formas quando você as move.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Mapa mental</strong> – Tab adiciona um nó filho, Enter um nó irmão.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diagramas: fluxograma com formas e setas.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Mapas mentais e fluxogramas: formas com texto, conectores com setas que permanecem presos às formas e Tab/Enter para mapas mentais rápidos.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diagramas</strong> – mapas mentais e fluxogramas feitos de formas com texto e conectores que se movem junto com elas.",
+"Beginn":"Início",
+"Schritt":"Etapa",
+"Ja":"Sim",
 };

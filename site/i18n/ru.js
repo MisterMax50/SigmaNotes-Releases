@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["ru"] = {
 "Addons – SigmaNotes":"Дополнения – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Обзор дополнений SigmaNotes для математики, электротехники и музыки – с функциями и изображениями.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Обзор дополнений SigmaNotes для математики, электротехники, музыки и диаграмм – с функциями и изображениями.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Формулы</strong> – введите LaTeX и вставьте его на страницу как аккуратную формулу.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Системы координат</strong> – в 2D и 3D, с функциями, поверхностями и пространственными кривыми.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Схемные символы</strong> – размещайте компоненты по IEC/DIN и ANSI из каталога с поиском.",
@@ -59,7 +59,7 @@ window.PN_I18N["ru"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Условные обозначения по IEC/DIN и ANSI, прокладка линий с узлами, каталог компонентов с поиском.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Скрипичные ключи, ноты, паузы, знаки альтерации и размеры – привязываются к нотным линейкам нотной бумаги.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Примечание: если при открытии Windows покажет предупреждение, это нормально. Просто нажмите «Подробнее», а затем «Выполнить в любом случае».",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: делайте пометки в PDF с помощью пера, фигур, инструментов измерения и аддонов для математики, электротехники и музыки. Скачать для Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: делайте пометки в PDF с помощью пера, фигур, инструментов измерения и аддонов для математики, электротехники, музыки и диаграмм. Скачать для Windows.",
 "Start":"Главная",
 "Dokumente":"Документы",
 "Zeichnen &amp; Schreiben":"Рисование &amp; письмо",
@@ -255,4 +255,15 @@ window.PN_I18N["ru"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"В программе к поддержке ты попадаешь через красный значок флага в строке заголовка. Все адреса есть и на <a href=\"kontakt.html\">странице контактов</a>.",
 "Alle Funktionen im Überblick":"Обзор всех функций",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"Вики SigmaNotes: пошаговые объяснения, как пользоваться документами, ручками, фигурами, линейкой и циркулем, инструментами измерения, текстовыми инструментами и страницами.",
+"Diagramme":"Диаграммы",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Рисуйте интеллект-карты и блок-схемы: фигуры с текстом, соединители со стрелками и сочетания клавиш для быстрых интеллект-карт.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Фигуры с текстом</strong> – размещайте прямоугольники, ромбы, эллипсы, начало/конец и другое и пишите прямо внутри.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Соединители</strong> – тяните линии и стрелки от фигуры к фигуре: прямые, под прямым углом или изогнутые; при перемещении фигур они следуют за ними.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Интеллект-карта</strong> – Tab добавляет дочерний узел, Enter – узел того же уровня.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Диаграммы: блок-схема с фигурами и стрелками.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Интеллект-карты и блок-схемы: фигуры с текстом, соединители со стрелками, которые остаются привязанными к фигурам, и Tab/Enter для быстрых интеллект-карт.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Диаграммы</strong> – интеллект-карты и блок-схемы из фигур с текстом и соединителей, которые перемещаются вместе с ними.",
+"Beginn":"Начало",
+"Schritt":"Шаг",
+"Ja":"Да",
 };

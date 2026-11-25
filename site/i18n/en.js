@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["en"] = {
 "Addons – SigmaNotes":"Addons – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Overview of the SigmaNotes addons for math, electrical engineering and music – with features and images.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Overview of the SigmaNotes addons for math, electrical engineering, music and diagrams – with features and images.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Formulas</strong> – enter LaTeX and place it on the page as a clean formula.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Coordinate systems</strong> – in 2D and 3D, with functions, surfaces and space curves.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Circuit symbols</strong> – place components per IEC/DIN and ANSI from a searchable catalog.",
@@ -59,7 +59,7 @@ window.PN_I18N["en"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Place circuit symbols according to IEC/DIN and ANSI, draw wires with junctions, component catalog with search.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Clefs, notes, rests, accidentals and time signatures – they snap to the staff lines of the music paper.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Note: If Windows shows a warning when you open it, that is normal. Simply click “More info” and then “Run anyway”.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: annotate PDFs with a pen, shapes, measuring tools and addons for math, electrical engineering and music. Download for Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: annotate PDFs with a pen, shapes, measuring tools and addons for math, electrical engineering, music and diagrams. Download for Windows.",
 "Start":"Home",
 "Dokumente":"Documents",
 "Zeichnen &amp; Schreiben":"Draw &amp; write",
@@ -255,4 +255,15 @@ window.PN_I18N["en"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"In the program you reach support via the red flag icon in the title bar. You also find all addresses on the <a href=\"kontakt.html\">contact page</a>.",
 "Alle Funktionen im Überblick":"Overview of all features",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"The SigmaNotes wiki: step-by-step explanations of how to use documents, pens, shapes, ruler and compass, measuring tools, text tools and pages.",
+"Diagramme":"Diagrams",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Draw mind maps and flowcharts: shapes with text, connectors with arrows and keyboard shortcuts for quick mind maps.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Shapes with text</strong> – place rectangles, diamonds, ellipses, start/end and more, and type straight into them.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Connectors</strong> – drag lines and arrows from shape to shape, straight, right-angled or curved; they follow when you move the shapes.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Mind map</strong> – Tab adds a child node, Enter adds a sibling node.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diagrams: flowchart with shapes and arrows.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Mind maps and flowcharts: shapes with text, connectors with arrows that stay attached to the shapes, and Tab/Enter for quick mind maps.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diagrams</strong> – mind maps and flowcharts made of shapes with text and connectors that move along with them.",
+"Beginn":"Start",
+"Schritt":"Step",
+"Ja":"Yes",
 };

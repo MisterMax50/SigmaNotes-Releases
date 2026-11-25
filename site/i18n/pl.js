@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["pl"] = {
 "Addons – SigmaNotes":"Dodatki – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Przegląd dodatków SigmaNotes do matematyki, elektrotechniki i muzyki – z funkcjami i obrazami.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Przegląd dodatków SigmaNotes do matematyki, elektrotechniki, muzyki i diagramów – z funkcjami i obrazami.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Wzory</strong> – wpisz LaTeX i wstaw go na stronę jako czytelny wzór.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Układy współrzędnych</strong> – w 2D i 3D, z funkcjami, powierzchniami i krzywymi przestrzennymi.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Symbole układów</strong> – umieszczaj elementy wg IEC/DIN i ANSI z katalogu z wyszukiwarką.",
@@ -59,7 +59,7 @@ window.PN_I18N["pl"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Symbole schematów według IEC/DIN i ANSI, przewody z węzłami, katalog elementów z wyszukiwarką.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Klucze, nuty, pauzy, znaki przykluczowe i metra – przyciągają się do linii pięciolinii na papierze nutowym.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Uwaga: Jeśli system Windows wyświetli ostrzeżenie podczas otwierania, to normalne. Wystarczy kliknąć „Więcej informacji”, a następnie „Uruchom mimo to”.",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes: opisuj pliki PDF piórem, kształtami, narzędziami pomiarowymi i dodatkami do matematyki, elektrotechniki i muzyki. Pobierz dla Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes: opisuj pliki PDF piórem, kształtami, narzędziami pomiarowymi i dodatkami do matematyki, elektrotechniki, muzyki i diagramów. Pobierz dla Windows.",
 "Start":"Start",
 "Dokumente":"Dokumenty",
 "Zeichnen &amp; Schreiben":"Rysowanie &amp; pisanie",
@@ -255,4 +255,15 @@ window.PN_I18N["pl"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"W programie do pomocy technicznej dotrzesz przez czerwoną ikonę flagi na pasku tytułu. Wszystkie adresy znajdziesz też na <a href=\"kontakt.html\">stronie kontaktowej</a>.",
 "Alle Funktionen im Überblick":"Przegląd wszystkich funkcji",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"Wiki SigmaNotes: wyjaśnienia krok po kroku, jak korzystać z dokumentów, pisaków, kształtów, linijki i cyrkla, narzędzi pomiarowych, narzędzi tekstowych i stron.",
+"Diagramme":"Diagramy",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Rysuj mapy myśli i schematy blokowe: kształty z tekstem, łączniki ze strzałkami i skróty klawiszowe do szybkich map myśli.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Kształty z tekstem</strong> – umieszczaj prostokąty, romby, elipsy, początek/koniec i inne, a następnie pisz bezpośrednio w nich.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Łączniki</strong> – przeciągaj linie i strzałki od kształtu do kształtu, proste, pod kątem prostym lub zakrzywione; podczas przesuwania kształtów podążają za nimi.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Mapa myśli</strong> – Tab dodaje węzeł podrzędny, Enter węzeł na tym samym poziomie.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diagramy: schemat blokowy z kształtami i strzałkami.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Mapy myśli i schematy blokowe: kształty z tekstem, łączniki ze strzałkami, które pozostają przypięte do kształtów, oraz Tab/Enter do szybkich map myśli.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diagramy</strong> – mapy myśli i schematy blokowe z kształtów z tekstem i łączników, które przesuwają się razem z nimi.",
+"Beginn":"Początek",
+"Schritt":"Krok",
+"Ja":"Tak",
 };

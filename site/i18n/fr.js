@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["fr"] = {
 "Addons – SigmaNotes":"Addons – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"Aperçu des addons de SigmaNotes pour les maths, l’électrotechnique et la musique – avec fonctions et images.",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"Aperçu des addons de SigmaNotes pour les maths, l’électrotechnique, la musique et les diagrammes – avec fonctions et images.",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>Formules</strong> – saisissez du LaTeX et insérez-le dans la page sous forme de formule nette.",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>Systèmes de coordonnées</strong> – en 2D et 3D, avec fonctions, surfaces et courbes dans l’espace.",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>Symboles de circuit</strong> – placez des composants selon IEC/DIN et ANSI depuis un catalogue avec recherche.",
@@ -59,7 +59,7 @@ window.PN_I18N["fr"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"Placez des symboles électriques selon IEC/DIN et ANSI, tracez des liaisons avec des nœuds, catalogue de composants avec recherche.",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"Clés, notes, silences, altérations et indications de mesure – ils s'alignent sur les lignes de la portée.",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"Remarque : si Windows affiche un avertissement à l'ouverture, c'est normal. Cliquez simplement sur « Informations complémentaires », puis sur « Exécuter quand même ».",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes : annotez des PDF avec un stylet, des formes, des outils de mesure et des addons pour les maths, l'électrotechnique et la musique. Téléchargement pour Windows.",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes : annotez des PDF avec un stylet, des formes, des outils de mesure et des addons pour les maths, l'électrotechnique, la musique et les diagrammes. Téléchargement pour Windows.",
 "Start":"Accueil",
 "Dokumente":"Documents",
 "Zeichnen &amp; Schreiben":"Dessin &amp; écriture",
@@ -255,4 +255,15 @@ window.PN_I18N["fr"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"Dans le programme, tu accèdes à l’assistance via l’icône de drapeau rouge dans la barre de titre. Tu trouves aussi toutes les adresses sur la <a href=\"kontakt.html\">page de contact</a>.",
 "Alle Funktionen im Überblick":"Aperçu de toutes les fonctions",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"Le wiki de SigmaNotes : explications pas à pas sur l’utilisation des documents, stylos, formes, règle et compas, outils de mesure, outils de texte et pages.",
+"Diagramme":"Diagrammes",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"Dessinez des cartes mentales et des organigrammes : formes avec texte, connecteurs à flèches et raccourcis clavier pour créer vite des cartes mentales.",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>Formes avec texte</strong> – placez rectangles, losanges, ellipses, début/fin et plus encore, et écrivez directement dedans.",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>Connecteurs</strong> – tirez des lignes et des flèches d’une forme à l’autre, droites, à angle droit ou courbes ; elles suivent les formes quand vous les déplacez.",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>Carte mentale</strong> – Tab ajoute un nœud enfant, Entrée un nœud de même niveau.",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"Diagrammes : organigramme avec formes et flèches.",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"Cartes mentales et organigrammes : formes avec texte, connecteurs à flèches qui restent attachés aux formes, et Tab/Entrée pour des cartes mentales rapides.",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>Diagrammes</strong> – cartes mentales et organigrammes faits de formes avec texte et de connecteurs qui suivent leurs déplacements.",
+"Beginn":"Début",
+"Schritt":"Étape",
+"Ja":"Oui",
 };

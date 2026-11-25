@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["ja"] = {
 "Addons – SigmaNotes":"アドオン – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"SigmaNotesの数学・電気工学・音楽アドオンの紹介（機能と画像つき）。",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"SigmaNotesの数学・電気工学・音楽・ダイアグラムアドオンの紹介（機能と画像つき）。",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>数式</strong> – LaTeXを入力して、きれいな数式としてページに配置します。",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>座標系</strong> – 2Dと3Dで、関数・曲面・空間曲線に対応します。",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>回路記号</strong> – IEC/DINおよびANSIの部品を、検索できるカタログから配置します。",
@@ -59,7 +59,7 @@ window.PN_I18N["ja"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"IEC/DIN および ANSI に準拠した回路記号の配置、接続点つきの配線、検索機能付きの部品カタログ。",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"音部記号、音符、休符、臨時記号、拍子記号。五線紙の譜線にきちんと揃います。",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"注意：開くときに Windows が警告を表示しても問題ありません。「詳細情報」をクリックし、続けて「実行」をクリックしてください。",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes：ペン、図形、計測ツール、数学・電気工学・音楽のアドオンで PDF に書き込み。Windows 用ダウンロード。",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes：ペン、図形、計測ツール、数学・電気工学・音楽・ダイアグラムのアドオンで PDF に書き込み。Windows 用ダウンロード。",
 "Start":"ホーム",
 "Dokumente":"ドキュメント",
 "Zeichnen &amp; Schreiben":"描画 &amp; 手書き",
@@ -255,4 +255,15 @@ window.PN_I18N["ja"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"プログラム内では、タイトルバーの赤い旗アイコンからサポートに連絡できます。すべての連絡先は<a href=\"kontakt.html\">お問い合わせページ</a>にもあります。",
 "Alle Funktionen im Überblick":"すべての機能の概要",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"SigmaNotes ウィキ: ドキュメント、ペン、図形、定規とコンパス、計測ツール、テキストツール、ページの使い方をステップごとに説明します。",
+"Diagramme":"ダイアグラム",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"マインドマップとフローチャートを描画: テキスト入りの図形、矢印付きコネクタ、すばやくマインドマップを作るキーボードショートカット。",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>テキスト入りの図形</strong> – 長方形、ひし形、楕円、開始/終了などを配置し、そのまま文字を入力できます。",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>コネクタ</strong> – 図形から図形へ線や矢印をドラッグします。直線、直角、曲線から選べ、図形を動かすと一緒に動きます。",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>マインドマップ</strong> – Tab で子ノード、Enter で同じ階層のノードを追加します。",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"ダイアグラム: 図形と矢印によるフローチャート。",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"マインドマップとフローチャート: テキスト入りの図形、図形につながったままの矢印付きコネクタ、Tab/Enter ですばやく作れるマインドマップ。",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>ダイアグラム</strong> – テキスト入りの図形と、図形と一緒に動くコネクタで作るマインドマップとフローチャート。",
+"Beginn":"開始",
+"Schritt":"処理",
+"Ja":"はい",
 };

@@ -1,7 +1,7 @@
 window.PN_I18N = window.PN_I18N || {};
 window.PN_I18N["zh-Hans"] = {
 "Addons – SigmaNotes":"附加组件 – SigmaNotes",
-"Die Addons von SigmaNotes für Mathe, Elektrotechnik und Musik im Überblick – mit Funktionen und Bildern.":"SigmaNotes 数学、电气工程和音乐附加组件一览——含功能与图片。",
+"Die Addons von SigmaNotes für Mathe, Elektrotechnik, Musik und Diagramme im Überblick – mit Funktionen und Bildern.":"SigmaNotes 数学、电气工程、音乐和图表附加组件一览——含功能与图片。",
 "<strong>Formeln</strong> – LaTeX eingeben und als saubere Formel in die Seite setzen.":"<strong>公式</strong> – 输入 LaTeX，作为清晰的公式放入页面。",
 "<strong>Koordinatensysteme</strong> – in 2D und 3D, mit Funktionen, Flächen und Raumkurven.":"<strong>坐标系</strong> – 支持 2D 和 3D，可绘制函数、曲面和空间曲线。",
 "<strong>Schaltzeichen</strong> – Bauteile nach IEC/DIN und ANSI aus einem durchsuchbaren Katalog setzen.":"<strong>电路符号</strong> – 从可搜索的目录中放置符合 IEC/DIN 和 ANSI 的元件。",
@@ -59,7 +59,7 @@ window.PN_I18N["zh-Hans"] = {
 "Schaltzeichen nach IEC/DIN und ANSI setzen, Leitungen mit Knotenpunkten ziehen, Bauteil-Katalog mit Suche.":"按 IEC/DIN 和 ANSI 标准放置电路符号，用节点绘制导线，并提供可搜索的元件目录。",
 "Notenschlüssel, Noten, Pausen, Vorzeichen und Taktarten – rasten auf den Notenlinien des Notenpapiers ein.":"谱号、音符、休止符、升降号和拍号——会自动吸附到乐谱纸的五线谱线上。",
 "Hinweis: Zeigt Windows beim Öffnen eine Warnung, ist das normal. Klicke einfach auf „Weitere Informationen“ und dann auf „Trotzdem ausführen“.":"提示：如果 Windows 在打开时显示警告，这是正常的。只需点击“更多信息”，然后点击“仍要运行”。",
-"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik und Musik beschriften. Download für Windows.":"SigmaNotes：使用画笔、图形、测量工具以及数学、电气工程和音乐附加组件为 PDF 做标注。Windows 版下载。",
+"SigmaNotes: PDFs mit Stift, Formen, Messwerkzeugen und Addons für Mathe, Elektrotechnik, Musik und Diagramme beschriften. Download für Windows.":"SigmaNotes：使用画笔、图形、测量工具以及数学、电气工程、音乐和图表附加组件为 PDF 做标注。Windows 版下载。",
 "Start":"开始",
 "Dokumente":"文档",
 "Zeichnen &amp; Schreiben":"绘图 &amp; 书写",
@@ -255,4 +255,15 @@ window.PN_I18N["zh-Hans"] = {
 "Im Programm erreichst du den Support über das rote Flaggen-Symbol in der Titelleiste. Alle Adressen findest du auch auf der <a href=\"kontakt.html\">Kontaktseite</a>.":"在程序中,点击标题栏中的红色旗帜图标即可联系支持。所有地址也可在<a href=\"kontakt.html\">联系页面</a>找到。",
 "Alle Funktionen im Überblick":"所有功能一览",
 "Das SigmaNotes-Wiki: Schritt für Schritt erklärt, wie du Dokumente, Stifte, Formen, Lineal und Zirkel, Messwerkzeuge, Textwerkzeuge und Seiten benutzt.":"SigmaNotes 维基:逐步讲解如何使用文档、笔、形状、直尺和圆规、测量工具、文本工具和页面。",
+"Diagramme":"图表",
+"Mindmaps und Flussdiagramme zeichnen: Formen mit Text, Verbinder mit Pfeilen und Tastenkürzel für schnelle Mindmaps.":"绘制思维导图和流程图：带文字的形状、带箭头的连接线，以及快速制作思维导图的键盘快捷键。",
+"<strong>Formen mit Text</strong> – Rechteck, Raute, Ellipse, Start/Ende und mehr setzen und direkt hineinschreiben.":"<strong>带文字的形状</strong> – 放置矩形、菱形、椭圆、开始/结束等形状，并直接在其中输入文字。",
+"<strong>Verbinder</strong> – Linien und Pfeile von Form zu Form ziehen, gerade, rechtwinklig oder geschwungen; sie wandern beim Verschieben mit.":"<strong>连接线</strong> – 从一个形状拖出线条和箭头连到另一个形状，可选直线、直角或曲线；移动形状时连接线随之移动。",
+"<strong>Mindmap</strong> – Tab legt einen Unterknoten an, Enter einen Nachbarknoten.":"<strong>思维导图</strong> – Tab 添加子节点，Enter 添加同级节点。",
+"Diagramme: Flussdiagramm mit Formen und Pfeilen.":"图表：带形状和箭头的流程图。",
+"Mindmaps und Flussdiagramme: Formen mit Text, Verbinder mit Pfeilen, die an den Formen hängen bleiben, und Tab/Enter für schnelle Mindmaps.":"思维导图和流程图：带文字的形状、始终与形状相连的箭头连接线，以及用于快速制作思维导图的 Tab/Enter。",
+"<strong>Diagramme</strong> – Mindmaps und Flussdiagramme aus Formen mit Text und Verbindern, die beim Verschieben mitwandern.":"<strong>图表</strong> – 由带文字的形状和随之移动的连接线组成的思维导图和流程图。",
+"Beginn":"开始",
+"Schritt":"步骤",
+"Ja":"是",
 };

@@ -88,6 +88,7 @@ Zusatzmodule für Fachgebiete – einzeln wählbar, jederzeit nachinstallierbar:
 | **Mathe** | Formeln (LaTeX), 2D-/3D-Koordinatensysteme mit Funktionen, Flächen und Raumkurven |
 | **Elektrotechnik** | Schaltzeichen nach IEC/DIN und ANSI, Leitungen mit Knotenpunkten, Bauteil-Katalog |
 | **Musik** | Notenschlüssel, Noten, Pausen, Vorzeichen, Taktarten – rasten auf den Notenlinien ein |
+| **Diagramme** | Flussdiagramme und Mindmaps: Formen mit Text, Verbinder (gerade, rechtwinklig, geschwungen, mit Pfeilen), die beim Verschieben mitwandern |
 
 ## Feedback & Unterstützung
 
